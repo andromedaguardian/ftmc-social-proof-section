@@ -5,5 +5,5 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/card-component-wZUMDR3_Vt)
+- Live Site URL: [here](https://majestic-twilight-f22b5f.netlify.app)
